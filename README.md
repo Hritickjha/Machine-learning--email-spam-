@@ -26,10 +26,6 @@ This repository contains a machine learning project aimed at detecting email spa
     ```
 3. Follow the instructions in the reports for setting up the environment, preprocessing the data, and training the models.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or feedback, feel free to contact me at hritickjha@example.com.
